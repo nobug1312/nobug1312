@@ -1,7 +1,9 @@
 # 💫 About Me:
 **<span style="color: #FFB6C1; font-size: 1.5em;">Hello, I'm Kai </span></br>**
 </br>
-<img width="1080" height="1080" alt="973baccd23c790d2cf8e0b19bd0019dc" src="https://github.com/user-attachments/assets/bdbaad54-a0c7-4441-a28f-eecf24f6c27e" />
+<div align="left">
+  <img width="320" height="320" alt="973baccd23c790d2cf8e0b19bd0019dc" src="https://github.com/user-attachments/assets/bdbaad54-a0c7-4441-a28f-eecf24f6c27e" />
+</div>
 </br>
 <span style="color: #FFB6C1; font-size: 1.5em;">coding が 大好きです (⸝⸝⸝>﹏<⸝⸝⸝) 
 </span>
