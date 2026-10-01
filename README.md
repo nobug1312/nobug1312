@@ -4,7 +4,7 @@
   <img width="380" height="380" alt="662a226c55bb64385cb3462a3c73ed28" src="https://github.com/user-attachments/assets/6ec1de27-23c6-45ab-9cfc-bf2b10953805" />
 </div>
 </br>
-> coding が 大好きです (⸝⸝⸝>﹏<⸝⸝⸝) 
+> 日本語は難しいですが、面白いです！ 🐧
 
 
 
