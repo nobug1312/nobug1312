@@ -1,12 +1,11 @@
-# 💫 About Me:
-**<span style="color: #FFB6C1; font-size: 1.5em;">Hello, I'm Kai </span></br>**
+# 💫 Hello, I'm Kai:
 </br>
 <div align="center">
   <img width="380" height="380" alt="662a226c55bb64385cb3462a3c73ed28" src="https://github.com/user-attachments/assets/6ec1de27-23c6-45ab-9cfc-bf2b10953805" />
 </div>
 </br>
-<span style="color: #FFB6C1; font-size: 1.5em;">coding が 大好きです (⸝⸝⸝>﹏<⸝⸝⸝) 
-</span>
+>coding が 大好きです (⸝⸝⸝>﹏<⸝⸝⸝) 
+
 
 
 ## 💻 Tech Stack
